@@ -173,7 +173,7 @@ AddUi.java
 
 ## 👨‍💻 Author
 
-GitHub Project by **推し【雪民】雪花ラミィ**
+GitHub Project by **陳 楷宭**
 
 Java Practice Project
 
